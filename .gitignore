@@ -47,3 +47,7 @@ lombok.config
 
 ########## local-application.properties ######
 local-application.properties
+/gradlew.bat
+/gradlew
+/gradle/wrapper/gradle-wrapper.properties
+/gradle/wrapper/gradle-wrapper.jar
